@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sayyed-Abrar-Akhtar
-- 👀 I’m interested in Web and Android Development
-- 🌱 I’m currently learning MERN stack and Android Development
-- 💞️ I’m looking to collaborate and work in web development and android projects
+- 👋 Hi, I’m @Sayyed-Abrar-Akhtar.
+- 👀 I’m interested in Web and Android Development.
+- 🌱 I’m currently learning microservices and blockchain development.
+- 💞️ I’m looking to collaborate and work in web development and android projects.
 - 📫 How to reach me &#128073; <strong>email: </strong>akhtars10@uni.coventry.ac.uk
 
 <!---
