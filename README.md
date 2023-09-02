@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sayyed-Abrar-Akhtar.
-- 👀 I’m interested in React and Web3 development.
-- 🌱 I’m currently learning microservices and blockchain development.
-- 💞️ I’m looking to collaborate and work in web development and android projects.
+- 👀 I’m interested in React development.
+- 🌱 I’m currently learning micro frontend development and web security.
+- 💞️ I’m looking to collaborate and work in React and Next.js projects.
 - 📫 How to reach me &#128073; <strong>email: </strong>akhtars10@uni.coventry.ac.uk
 
 <!---
